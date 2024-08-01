@@ -1,0 +1,46 @@
+[
+    {
+      "Name": "How to Design a Lab Guide",
+      "Language": "English",
+      "BaseURL": "https://github.com/Raghukashyap1143/Astera-s-lab/tree/main",
+      "Files": [
+
+        {
+            "RawFilePath": "https://raw.githubusercontent.com/Raghukashyap1143/Astera-s-lab/main/Page1.md",
+            "Order": 1
+             
+        },
+
+        {
+            "RawFilePath": "https://raw.githubusercontent.com/Raghukashyap1143/Astera-s-lab/main/Page2.md",
+            "Order": 2
+              
+             
+        },
+        {
+            "RawFilePath": "https://raw.githubusercontent.com/Raghukashyap1143/Astera-s-lab/main/Page3.md",
+            "Order": 3 
+            
+             
+        },
+        { 
+            "RawFilePath": "https://raw.githubusercontent.com/Raghukashyap1143/Astera-s-lab/main/Page4.md",
+            "Order": 4
+          
+        },
+        {
+            "RawFilePath": "https://raw.githubusercontent.com/Raghukashyap1143/Astera-s-lab/main/Page5.md",
+            "Order": 5   
+        },
+        {
+            "RawFilePath": "https://raw.githubusercontent.com/Raghukashyap1143/Astera-s-lab/main/Page6.md",
+            "Order": 6
+        },
+        {
+          "RawFilePath": "https://raw.githubusercontent.com/Raghukashyap1143/Astera-s-lab/main/Page7.md",
+          "Order": 7
+        }
+          
+    ]
+  }
+]
